@@ -52,7 +52,7 @@
 <img src=https://img.shields.io/badge/steam-%23292929.svg?&style=for-the-badge&logo=steam&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://myanimelist.net/profile/SinizterChill" target="_blank">
-<img src=https://img.shields.io/badge/mal-%23292929.svg?&style=for-the-badge&logo=&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-mal-darkblue?style=for-the-badge alt=mal style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
