@@ -27,7 +27,7 @@
 
 <details>
 <summary><b>🧐 Some of My Recent Works</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Edutopia&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Kitabe&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=vue">
 </details>
 
 <br>
