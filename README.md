@@ -8,6 +8,7 @@
 - ✍ I break down stuff [@Medium](https://medium.com/@praful.mohanan) 🤠
 <br>
 
+![Badge](https://cp-logo.vercel.app/codechef/Praful932)
 
 
 ### Mostly Work With ⚒
