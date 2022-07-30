@@ -39,7 +39,7 @@
 </a>
 
 <a href="mailto:praful.mohanan@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/PrafulMohanan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
