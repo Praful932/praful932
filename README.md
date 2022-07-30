@@ -2,18 +2,16 @@
 
 
 ### 👨‍💻 About Me
-- 👨‍🎓 Third Year IT 💻 Undergrad 
-- 💜 Love Mathematics & Machine Learning🤖
-- 🛠  Always Working on Something New 🔥
-- ✍ I break down stuff [@Medium](https://medium.com/@praful.mohanan) 🤠
+- NLP is 💜 
+- ML @ [Prodigal](https://www.prodigaltech.com/)
+- Building something on the brink of Research🧪 & Engineering 🛠
+- ✍ Break down stuff [@Medium](https://medium.com/@praful.mohanan) 🤠
 <br>
 
-![Badge](https://cp-logo.vercel.app/codechef/Praful932)
 
+### Currently Working With ⚒
 
-### Mostly Work With ⚒
-
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue) ![TENSORFLOW](https://img.shields.io/badge/-tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white) ![Django](https://img.shields.io/badge/-django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
+![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue) ![PYTORCH](https://img.shields.io/badge/-pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <br>
 
@@ -28,7 +26,7 @@
 
 <details>
 <summary><b>🧐 Some of My Recent Works</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Kitabe&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Kitabe&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Tf-Rec&show_icons=true&theme=vue">
 </details>
 
 <br>
@@ -41,7 +39,7 @@
 </a>
 
 <a href="mailto:praful.mohanan@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Drop%20A%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/PrafulMohanan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
