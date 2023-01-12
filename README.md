@@ -5,7 +5,7 @@
 - NLP is 💜 
 - ML @ [Prodigal](https://www.prodigaltech.com/)
 - Building something on the brink of Research🧪 & Engineering 🛠
-- ✍ Break down stuff [@Medium](https://medium.com/@praful.mohanan) 🤠
+- ✍ Break down stuff here - https://praful932.dev/
 <br>
 
 
