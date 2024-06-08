@@ -2,20 +2,13 @@
 
 
 ### 👨‍💻 About Me
-- NLP is 💜 
+- believe in improving 0.01% everyday
 - ML @ [Prodigal](https://www.prodigaltech.com/)
-- Building something on the brink of Research🧪 & Engineering 🛠
 - ✍ Break down stuff here - https://praful932.dev/
+- current interests - getting better outputs out of SLMs and low level design
+- fun fact - i can speak broken Japanese
+- [hmu](https://calendly.com/praful-mohanan/1x1)
 <br>
-
-
-### Currently Working With ⚒
-
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue) ![PYTORCH](https://img.shields.io/badge/-pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
-
-<br>
-
-
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
@@ -26,7 +19,7 @@
 
 <details>
 <summary><b>🧐 Some of My Recent Works</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Kitabe&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Tf-Rec&show_icons=true&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=Kitabe&show_icons=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=llmsearchc&show_icons=true&theme=vue">
 </details>
 
 <br>
@@ -57,7 +50,6 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/Praful932)
 
 
 
